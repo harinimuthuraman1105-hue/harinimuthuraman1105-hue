@@ -44,7 +44,7 @@
 
 
 
-☕ Java • 🐍 Python • 🗄️ SQL • 🌐 HTML5 • 🎨 CSS3 • 📚 DSA • 🔧 Git & GitHub • ☁️ Cloud Computing • 💻 Full-Stack Development
+☕ Java • 🐍 Python • 🗄️ SQL • 🌐 HTML  • 🔧 Git & GitHub • ☁️ Cloud Computing • 💻 Full-Stack Development
 
 ---
 
